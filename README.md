@@ -38,3 +38,9 @@ b)	Special – These function similar to a guard’s flashlight, meaning they’
 Win Condition – By getting to the end of a level and interacting with the keypad beside the door. 
 Lose Condition – Getting detected by a guard, special camera or a combination of a static light and camera or a static light and a guard.  
 
+#Team Members
+Souvik Maity(Programmer)
+Abirbhav Goswami(Programmer)
+Ayush Patra(Art and Design)
+Simoni Agarwal(Art and Design)
+Chintan Basrani(Level Design)
