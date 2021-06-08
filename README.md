@@ -40,7 +40,11 @@ Lose Condition – Getting detected by a guard, special camera or a combination 
 
 # Team Members
 • Souvik Maity(Programmer)
+
 • Abirbhav Goswami(Programmer)
+
 • Ayush Patra(Art and Design)
+
 • Simoni Agarwal(Art and Design)
+
 • Chintan Basrani(Level Design)
